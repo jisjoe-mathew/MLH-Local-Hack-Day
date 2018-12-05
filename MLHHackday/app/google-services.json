@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662348268949",
+    "firebase_url": "https://mlhhackday.firebaseio.com",
+    "project_id": "mlhhackday",
+    "storage_bucket": "mlhhackday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662348268949:android:37302946a3d12bff",
+        "android_client_info": {
+          "package_name": "onebyzero.club.mlhhackday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662348268949-r673hh705ajvvj62i18uf54kat93v3c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onebyzero.club.mlhhackday",
+            "certificate_hash": "24563f60a5e91851905b8c69dc05e83d8b4872d4"
+          }
+        },
+        {
+          "client_id": "662348268949-oqugd0u9rj8mepjek0no51dk2qn3n74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMFpmI_hSAiVbzy-dKwvtd4AYg1eCSio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662348268949-oqugd0u9rj8mepjek0no51dk2qn3n74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

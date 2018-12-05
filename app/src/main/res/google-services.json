@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1051208269712",
+    "firebase_url": "https://mlosfy.firebaseio.com",
+    "project_id": "mlosfy",
+    "storage_bucket": "mlosfy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051208269712:android:6bd36bbca0582b11",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051208269712-r4fekggut747tn346e5s9v6m1hnrm6jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXPvPcrQzlIB0LoxxYtPCMFv9hVoYqr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051208269712:android:d5cecf29f37e8f3b",
+        "android_client_info": {
+          "package_name": "com.jisjoe.osfyml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051208269712-r4fekggut747tn346e5s9v6m1hnrm6jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXPvPcrQzlIB0LoxxYtPCMFv9hVoYqr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
